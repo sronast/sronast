@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently pursuing a Master's in Computer Science at Florida State University. I am also working as a graduate research assistant. My research is focused on Machine Learning and Data Science.
+- 🔭 I’m currently pursuing a Master's in Computer Science at Florida State University. I work as a graduate research assistant. My research is focused on Machine Learning and Data Science.
 <!--
 **sronast/sronast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
